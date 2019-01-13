@@ -138,3 +138,6 @@ Send a PR to add a one sentence description:)
 
 ## Windows Binaries
 Unofficial windows binaries and instructions on how to use them are hosted on [Guido Tapia's blog](http://www.picnet.com.au/blogs/guido/post/2016/09/22/xgboost-windows-x64-binaries-for-download/)
+
+Refer:
+https://github.com/dmlc/xgboost/blob/master/demo/README.md#machine-learning-challenge-winning-solutions
